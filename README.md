@@ -70,5 +70,13 @@ $ yarn test
 
 ```
 $ docker build -t node-angular . --no-cache
-$  docker container run -p 80:80 node-angular
+$ docker container run -p 80:80 node-angular
 ```
+
+### MarkDown
+
+https://www.markdownguide.org/basic-syntax/
+
+## Stay in touch
+
+- Author - [Christian bacilio](https://github.com/dbacilio88)
